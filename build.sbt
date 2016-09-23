@@ -2,7 +2,7 @@ organization := "info.hupel"
 name := "slf4j-impl-helper"
 
 scalaVersion := "2.11.8"
-crossScalaVersions := Seq("2.10.5", "2.11.8")
+crossScalaVersions := Seq("2.10.5", "2.11.8", "2.12.0-RC1")
 
 scalacOptions ++= Seq(
   "-deprecation",
